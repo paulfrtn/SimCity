@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1669136714 source:c:\ece\ece ing2\algorithme et programmation\théorie des graphes\bullycity_v1\bullycity\fonctions.c
+	"header.h"
+
+1669135872 c:\ece\ece ing2\algorithme et programmation\théorie des graphes\bullycity_v1\bullycity\header.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<stdbool.h>
+
+1669132092 source:c:\ece\ece ing2\algorithme et programmation\théorie des graphes\bullycity_v1\bullycity\main.c
+	"header.h"
+
+1669582390 source:c:\ece\ece ing2\algorithme et programmation\théorie des graphes\bullycity_v1\bullycity_tdg_1st\fonctions.c
+	"header.h"
+
+1669581785 c:\ece\ece ing2\algorithme et programmation\théorie des graphes\bullycity_v1\bullycity_tdg_1st\header.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<dirent.h>
+
+1669583303 source:c:\ece\ece ing2\algorithme et programmation\théorie des graphes\bullycity_v1\bullycity_tdg_1st\main.c
+	"header.h"
+
+1669587792 source:c:\users\cypri\onedrive\documents\prog language c\allegro\bullycity_tdg_1st\main.c
+	"header.h"
+
+1669586724 c:\users\cypri\onedrive\documents\prog language c\allegro\bullycity_tdg_1st\header.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<dirent.h>
+
+1669587792 source:c:\users\cypri\onedrive\documents\prog language c\allegro\bullycity_tdg_1st\fonctions.c
+	"header.h"
+
+1669587794 source:\\mac\home\desktop\last\fonctions.c
+	"header.h"
+
+1669586726 \\mac\home\desktop\last\header.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<dirent.h>
+
+1669587794 source:\\mac\home\desktop\last\main.c
+	"header.h"
+
+1669593018 source:\\mac\home\desktop\bullycity\fonctions.c
+	"header.h"
+
+1669592940 \\mac\home\desktop\bullycity\header.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<dirent.h>
+
+1669593085 source:\\mac\home\desktop\bullycity\main.c
+	"header.h"
+
+1674223491 source:c:\users\paula\desktop\cours paul\ing2\info\theorie des graphes\projet s1\bullycity_final\fonctions.c
+	"header.h"
+
+1669592942 c:\users\paula\desktop\cours paul\ing2\info\theorie des graphes\projet s1\bullycity_final\header.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<stdbool.h>
+	<dirent.h>
+
+1674223536 source:c:\users\paula\desktop\cours paul\ing2\info\theorie des graphes\projet s1\bullycity_final\main.c
+	"header.h"
+
